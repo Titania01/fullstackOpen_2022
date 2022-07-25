@@ -1,0 +1,11 @@
+.message {
+  color: green;
+  border: 2px solid green;
+  font-style: italic;
+  background: lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
